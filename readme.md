@@ -1,4 +1,4 @@
-# Angular 4 app - with nested jquery-ui sortable
+# Dynamo db safe way to generate unique id
 
 [Read tutorial](http://codingperfection.com/scalable-way-of-generating-unique-id-for-dynamo-db-atomic-counter/)
 
